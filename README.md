@@ -1,8 +1,1 @@
-##코드
-
-##결과
-
-## 출근 시간 분석
-오전 출근 시간에 승차가 가장 많은 역은 광주 전주 나주 이므로 이 3곳이 거주지일 것이다.
-
-##퇴근 시간 분석
+NumSubway 와 CongestionSubway 데이터를 이용해 Residence와 Workspace 판별하기
